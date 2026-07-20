@@ -17,4 +17,5 @@ Welcome to my repository dedicated to tracking my progress and solutions for Lee
 | [0577-employee-bonus](https://github.com/mominajabeen/leetcode-sql-challanges/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/mominajabeen/leetcode-sql-challenges/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
